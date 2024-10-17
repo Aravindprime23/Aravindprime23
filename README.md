@@ -1,5 +1,4 @@
 ## Bazinga
-contents unknown...
 misstakes maker
 
 <div align="center">
