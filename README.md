@@ -1,7 +1,10 @@
 ## Bazinga
 contents unknown...
 misstakes maker
-![Screenshot (1360)](https://github.com/user-attachments/assets/2fbed666-2726-4494-91fa-0497743a9d55)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2fbed666-2726-4494-91fa-0497743a9d55" alt="Screenshot (1360)" style="width:70%; height:auto;" />
+</div>
 
 ![Alt](https://repobeats.axiom.co/api/embed/431a07d0bfe331438379af475645347a6f2d6353.svg "Repobeats analytics image")
 <!--
