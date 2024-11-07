@@ -1,5 +1,4 @@
-## Bazinga
-misstakes maker
+## A
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2fbed666-2726-4494-91fa-0497743a9d55" alt="Screenshot (1360)" style="width:70%; height:auto;" />
