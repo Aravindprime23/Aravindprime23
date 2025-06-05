@@ -1,5 +1,5 @@
 ## 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fj1ee0nunvp8jwi0rp245i5ee&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fj1ee0nunvp8jwi0rp245i5ee&redirect=true)
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2fbed666-2726-4494-91fa-0497743a9d55" alt="Screenshot (1360)" style="width:70%; height:auto;" />
 </div>
