@@ -3,6 +3,7 @@
   </a>
 </div>
 
+<!--
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2fbed666-2726-4494-91fa-0497743a9d55" 
        alt="Screenshot (1360)" 
@@ -14,3 +15,4 @@
        onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3)';" 
        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.2)';"/>
 </div>
+-->
